@@ -10,8 +10,7 @@ int main(void)
 {
 int a;
 a = 0;
-while (a < 10)
+ for (a = o; a < 10; a++)
 printf("%d/n", a);
-a++;
 return (0);
 }

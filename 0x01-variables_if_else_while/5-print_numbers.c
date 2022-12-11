@@ -9,8 +9,8 @@
 int main(void)
 {
 int a;
-a = 0;
- for (a = o; a < 10; a++)
-printf("%d/n", a);
+
+for (a = o; a < 10; a++)
+printf("%d\n", a);
 return (0);
 }
